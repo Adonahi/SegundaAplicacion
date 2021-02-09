@@ -2,4 +2,16 @@
     <string name="app_name">SegundaAplicacion</string>
     <string name="txtv_titulo">Ingrese la URL</string>
     <string name="edt_navegar">Navegar</string>
+    <string name="it_Evaluacion">Evalúenos</string>
+    <string name="it_Info">Información</string>
+    <string name="txtv_Rapidez">Rapidez</string>
+    <string name="txtv_Eficiencia">Eficiencia</string>
+    <string name="txtv_UsoFacil">Uso Fácil</string>
+    <string name="txtv_Informacion">Información</string>
+    <string name="txtv_TextoInfo">
+        Segunda Aplicacion. UNICA FI UNAM 2021.
+        Aplicación creada por Adonahí el día 9 de febrero de 2021.
+        Aplicación para visualizar una página web.
+    </string>
+    <string name="txtv_TituloInfo">Información de la aplicación</string>
 </resources>
