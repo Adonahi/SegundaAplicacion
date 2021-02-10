@@ -31,8 +31,8 @@
 
     <TextView
         android:id="@+id/txtvInfo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="379dp"
+        android:layout_height="89dp"
         android:text="@string/txtv_TextoInfo"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

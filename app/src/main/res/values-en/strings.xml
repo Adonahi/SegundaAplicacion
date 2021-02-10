@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SegundaAplicacion</string>
+    <string name="txtv_titulo">Type an URL</string>
+    <string name="edt_navegar">Search</string>
+    <string name="it_Evaluacion">Review us</string>
+    <string name="it_Info">About</string>
+    <string name="txtv_Rapidez">Speed</string>
+    <string name="txtv_Eficiencia">Efficiency</string>
+    <string name="txtv_UsoFacil">Easy Use</string>
+    <string name="txtv_Informacion">About</string>
+    <string name="txtv_TextoInfo">
+        Segunda Aplicacion. UNICA FI UNAM 2021.\n
+        App made by Adonahí 9 february 2021.\n
+        Web View Application.
+    </string>
+    <string name="txtv_TituloInfo">About application</string>
+</resources>

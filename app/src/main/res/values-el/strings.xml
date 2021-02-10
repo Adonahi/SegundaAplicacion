@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SegundaAplicacion</string>
+    <string name="txtv_titulo">Γράψε το URL</string>
+    <string name="edt_navegar">Αναζήτηση</string>
+    <string name="it_Evaluacion">Aξιολογήστε μας</string>
+    <string name="it_Info">Πληροφορίες</string>
+    <string name="txtv_Rapidez">Ταχύτητα</string>
+    <string name="txtv_Eficiencia">Αποδοτικότητα</string>
+    <string name="txtv_UsoFacil">Ευκολία</string>
+    <string name="txtv_Informacion">Πληροφορίες</string>
+    <string name="txtv_TextoInfo">
+        Segunda Aplicacion. UNICA FI UNAM 2021.\n
+        Η εφαρμογή δημιουργήθηκε από τον Αντοναΐ στις 9 Φεβρουαρίου 2021.\n
+        Εφαρμογή για προβολή μιας ιστοσελίδας.
+    </string>
+    <string name="txtv_TituloInfo">Πληροφορίες της εφαρμογής</string>
+</resources>
