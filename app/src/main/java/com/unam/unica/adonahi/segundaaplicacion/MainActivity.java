@@ -60,8 +60,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.itInfo:
                 Intent info = new Intent(getApplicationContext(), Informacion.class);
                 startActivity(info);
-                //Toast.makeText(getApplicationContext(), "Información", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Información", Toast.LENGTH_SHORT).show();
                 break;
+            case R.id.itHola:
         }
 
         return super.onOptionsItemSelected(item);

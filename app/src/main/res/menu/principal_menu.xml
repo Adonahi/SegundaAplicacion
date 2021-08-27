@@ -2,4 +2,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:title="@string/it_Evaluacion" android:id="@+id/itEvaluacion"></item>
     <item android:title="@string/it_Info" android:id="@+id/itInfo"></item>
+    <item android:title="Hola" android:id="@+id/itHola"/>
 </menu>
